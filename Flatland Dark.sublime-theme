@@ -485,6 +485,7 @@
     {
         "class": "sidebar_label",
         "color": [212, 212, 213],
+	"font.size": 13,
         "shadow_offset": [0, 0]
     },
     // Sidebar folder entry
